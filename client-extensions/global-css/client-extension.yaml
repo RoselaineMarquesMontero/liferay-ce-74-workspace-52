@@ -1,0 +1,4 @@
+global-css:
+    name: global-css
+    type: globalCSS
+    url: global.css

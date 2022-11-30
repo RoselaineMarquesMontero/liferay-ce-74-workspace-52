@@ -1,0 +1,13 @@
+@import 'sassy-inputs/sass/main';
+
+body {
+	background: rgb(202,33,237);
+	background: linear-gradient(180deg, rgba(202,33,237,1) 0%, rgba(238,153,226,0.590095413165266) 35%, rgba(136,18,230,1) 100%);
+	}
+a{
+	color: var(--btn-link-color, #fff);
+}
+.nav-pills .nav-link.active{
+	background-color: var(--primary);
+    color: #fff;
+}

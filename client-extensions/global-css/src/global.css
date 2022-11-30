@@ -1,0 +1,10 @@
+body {
+	font-family: cursive;
+}
+.nav-pills a.nav-link{
+	color: var(--btn-link-color, #fff);
+}
+.nav-pills .nav-link.active{
+	background-color: var(--primary);
+    color: #fff;
+}
